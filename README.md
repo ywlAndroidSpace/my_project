@@ -1,2 +1,2 @@
 # my_project
-My fitrst project space
+My first project space
